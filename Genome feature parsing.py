@@ -194,3 +194,4 @@ genome_length = len(genome_sequence)
 genome_GCpercent = gc_fraction(genome_sequence)
 print("Ukuran genom:",genome_length)
 print("GC-percentage:",genome_GCpercent)
+
