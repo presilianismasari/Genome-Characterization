@@ -1,2 +1,2 @@
 # Genome-Characterization
-Codes for bacterial genome characterization, including feature parsing, KEGG annotation integration, Proksee input generation, and 16S rRNA sequence extraction
+Codes for bacterial genome characterization, including feature parsing, 16S rRNA sequence extraction, and Proksee input generation
