@@ -272,3 +272,6 @@ df.to_csv(output_path, index=False)
 
 print("File has been modified and saved successfully.")
 
+#coba analisis file baru buat belajar?
+
+
